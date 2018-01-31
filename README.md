@@ -24,12 +24,12 @@ Setup
 
 Dashboard Views
 
-https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme.png
+![alt text](https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme.png)
 
 Search
 
-https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme_search.png
+![alt text](https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme_search.png)
 
 Viz
 
-https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme_viz.png
+![alt text](https://github.com/anushjay/slackr/blob/master/screenshots/slackr_readme_viz.png)
