@@ -24,12 +24,12 @@ Setup
 
 Dashboard Views
 
-![alt text](slackr_readme.png "Description goes here")
+slackr/screenshots/slackr_readme.png
 
 Search
 
-![alt text](./slackr_readme_search.png "Description goes here")
+slackr/screenshots/slackr_readme_search.png
 
 Viz
 
-![alt text](./slackr_readme_viz.png "Description goes here")
+slackr/screenshots/slackr_readme_viz.png
